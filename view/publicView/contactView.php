@@ -1,6 +1,6 @@
 <?php 
 
-$title = "accueil";
+$title = "conctact";
 include_once '../view/include/header.php';
 
-echo 'sa marche';
+echo 'contact';
